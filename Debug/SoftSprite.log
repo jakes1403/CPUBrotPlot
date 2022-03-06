@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\SoftwareProjects\VisualStudio\repos\SoftSprite\main.cpp(55,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\SoftwareProjects\VisualStudio\repos\SoftSprite\main.cpp(147,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\SoftwareProjects\VisualStudio\repos\SoftSprite\main.cpp(151,58): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\SoftwareProjects\VisualStudio\repos\SoftSprite\main.cpp(188,117): warning C4244: 'argument': conversion from 'double' to 'const std::complex<float>::_Ty', possible loss of data
+D:\SoftwareProjects\VisualStudio\repos\SoftSprite\main.cpp(215,35): warning C4018: '<': signed/unsigned mismatch
+D:\SoftwareProjects\VisualStudio\repos\SoftSprite\main.cpp(218,36): warning C4018: '<': signed/unsigned mismatch
+D:\SoftwareProjects\VisualStudio\repos\SoftSprite\main.cpp(265,20): warning C4018: '<': signed/unsigned mismatch
+D:\SoftwareProjects\VisualStudio\repos\SoftSprite\main.cpp(287,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\SoftwareProjects\VisualStudio\repos\SoftSprite\main.cpp(304,17): warning C4305: '*=': truncation from 'double' to 'float'
+D:\SoftwareProjects\VisualStudio\repos\SoftSprite\main.cpp(307,17): warning C4305: '*=': truncation from 'double' to 'float'
+D:\SoftwareProjects\VisualStudio\repos\SoftSprite\main.cpp(362,20): warning C4018: '<': signed/unsigned mismatch
+  SoftSprite.vcxproj -> D:\SoftwareProjects\VisualStudio\repos\SoftSprite\Debug\SoftSprite.exe

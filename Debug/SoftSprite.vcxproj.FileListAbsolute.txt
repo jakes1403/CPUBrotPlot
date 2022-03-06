@@ -1,0 +1,2 @@
+D:\SoftwareProjects\VisualStudio\repos\SoftSprite\Debug\SoftSprite.exe
+D:\SoftwareProjects\VisualStudio\repos\SoftSprite\Debug\SoftSprite.pdb
