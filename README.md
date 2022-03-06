@@ -1,7 +1,16 @@
 # CPUBrotPlot
 A horrifyingly inefficient CPU-based Mandlebrot set plotter written in C++.
 
+## About
+Wrote this code some time ago, it is a Mandlebrot set plotter that runs on the CPU. It determines the number of threads availiable on your PC, and then proceedes to hog them all in order to draw a beautiful 640x480 rendering of the the mandlebrot set.
+
+**It is highly likely your PC will come to a standstill while running this program, so use with caution!**
+
 ## Usage
+
+Download the program [here](https://github.com/jakes1403/CPUBrotPlot/releases/download/Working/CPUBrotPlot_Win32.zip), extract the zip file and run CPUBrotPlot.exe!
+
+Currently for Windows computers only.
 
 ### Controls
 
@@ -9,11 +18,6 @@ A horrifyingly inefficient CPU-based Mandlebrot set plotter written in C++.
  * X - Zoom out
  * Arrow keys - Move Camera
  * F2 - Take Screenshot (Placed in same directory as executable or CWD)
-
-## About
-Wrote this code some time ago, it is a Mandlebrot set plotter that runs on the CPU. It determines the number of threads availiable on your PC, and then proceedes to hog them all in order to draw a beautiful 640x480 rendering of the the mandlebrot set.
-
-**It is highly likely your PC will come to a standstill while running this program, so use with caution!**
 
 ## Screenshots
 
