@@ -3,6 +3,10 @@ A horrifyingly inefficient CPU-based Mandlebrot set plotter written in C++.
 
 ## Usage
 
+Download the program [here](https://github.com/jakes1403/CPUBrotPlot/releases/download/Working/CPUBrotPlot_Win32.zip), extract the zip file and run CPUBrotPlot.exe!
+
+Currently for Windows computers only.
+
 ### Controls
 
  * Z - Zoom in
